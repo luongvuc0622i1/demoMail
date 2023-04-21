@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.authentication;
 
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;

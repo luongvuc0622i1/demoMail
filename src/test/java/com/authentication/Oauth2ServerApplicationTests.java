@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.authentication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Demo2ApplicationTests {
+class Oauth2ServerApplicationTests {
 
     @Test
     void contextLoads() {
